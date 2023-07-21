@@ -1,1 +1,3 @@
 # Git Conflict
+
+Lorem ipsum
